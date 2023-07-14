@@ -24,6 +24,6 @@ Sono molto aperto a imparare cose nuove ed in futuro mi piacerebbe magari impara
 
 ## Progetti in evidenza
 Ecco alcuni dei progetti significativi a cui ho lavorato:
-- [Progetto 1](link_al_repository_del_progetto_1)
-- [Progetto 2](link_al_repository_del_progetto_2)
+- [Menu di un ristorante in JAVA](https://github.com/fefo92/RistoranteTeam3Java11)
+- [Gestionale Ristorante in Spring](https://github.com/fefo92/ceresto_eat)
 
