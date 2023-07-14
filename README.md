@@ -18,8 +18,8 @@ Attualmente, sto cercando di ampliare le mie competenze in JAVA e spero di poter
 Sono molto aperto a imparare cose nuove ed in futuro mi piacerebbe magari imparare linguaggi come Kotlin e Phyton.
 
 ## Link e contatti
-- [E-Mail](stefanodevoti.dev@gmail.com)
-- [Cellulare](+393519796750)
+- E-Mail: stefanodevoti.dev@gmail.com
+- Cellulare: +393519796750
 - [Profilo LinkedIn](https://www.linkedin.com/in/stefano-sd-devoti/)
 
 ## Progetti in evidenza
